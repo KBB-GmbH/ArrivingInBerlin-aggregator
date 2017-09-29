@@ -29,7 +29,7 @@
       "name": "ODbl"
     },
     "description": "Other: ([[http://bit.ly/1OPIEj9|**Farsi**]], [[http://bit.ly/1NlTjAf|**Arabic**]], [[http://bit.ly/1nB5i5y|**French**]])\n\nDiese Karte soll Geflüchteten eine Hilfe sein und enthält wichtige Informationen für Neuangekommene in Berlin. \n\n[[http://www.arriving-in-berlin.de|\"Arriving in Berlin\"]] ist ein Kartenprojekt von [[http://www.berliner-stadtmission.de/haus-leo|Haus Leo,]] (Berliner Stadtmission) und dem [[http://www.hkw.de|Haus der Kulturen der Welt]]. \n\nEntwickelt von Hamidullah Ehrari, Mohammad Yari, Farhad Ramazanali, Alhadi Aldebs - Bewohner des Haus Leo. \n\nWeitere Informationen gibt es auf der [[http://www.arriving-in-berlin.de|website]]\n",
-    "name": "\"Arriving in Berlin - A map made by refugees\" (German version)",
+    "name": "\"Arriving in Berlin - A map made by refugees\"  (German version)",
     "onLoadPanel": "caption",
     "displayPopupFooter": false,
     "miniMap": false,
