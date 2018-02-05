@@ -657,7 +657,7 @@
       "properties": {
         "name": "Dr. med. Bettina Schulz und Dr. med. Hossai Willis",
         "beschreibung": "Frauenarzt (Farsi)",
-        "adresse": "Antwerpener Straße 3, 13353 Berlin",
+        "adresse": "**Adress:** Antwerpener Straße 3, 13353 Berlin",
         "telefon": "**Phone:** +49 30 453 41 86",
         "transport": "**Transport: **[[http://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/en?| BVG Routeplanner ]]",
         "medium": "",
