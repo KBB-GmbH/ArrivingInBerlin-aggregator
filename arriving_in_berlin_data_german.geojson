@@ -168,20 +168,6 @@
     {
       "type": "Feature",
       "properties": {
-        "telefon": "",
-        "link": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.427,
-          52.503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Afghanisches Kommunikations- und Kulturzentrum e.V.",
         "beschreibung": "Hilfe und Beratung für Geflüchtete in den Sprachen Deutsch und Dari.",
         "adresse": "**Adress:** Friedelstraße 10, 12047 Berlin",
